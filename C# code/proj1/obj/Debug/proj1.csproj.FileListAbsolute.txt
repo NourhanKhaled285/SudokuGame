@@ -1,0 +1,33 @@
+C:\Users\elmo7taref\source\repos\proj1\proj1\bin\Debug\proj1.exe.config
+C:\Users\elmo7taref\source\repos\proj1\proj1\bin\Debug\proj1.exe
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.csprojAssemblyReference.cache
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.Form1.resources
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.Properties.Resources.resources
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.UC1.resources
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.csproj.GenerateResource.cache
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.csproj.CoreCompileInputs.cache
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.exe
+C:\Users\elmo7taref\source\repos\proj1\proj1\obj\Debug\proj1.pdb
+C:\Users\elmo7taref\source\repos\proj1\proj1\bin\Debug\proj1.pdb
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\bin\Debug\proj1.exe.config
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\bin\Debug\proj1.exe
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\bin\Debug\proj1.pdb
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\obj\Debug\proj1.Form1.resources
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\obj\Debug\proj1.Properties.Resources.resources
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\obj\Debug\proj1.UC1.resources
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\obj\Debug\proj1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\obj\Debug\proj1.exe
+C:\Users\HP\Desktop\assembly project\Israa assembly code\proj1\obj\Debug\proj1.pdb
+C:\Users\HP\Desktop\assembly project\C# code\proj1\bin\Debug\proj1.exe.config
+C:\Users\HP\Desktop\assembly project\C# code\proj1\obj\Debug\proj1.exe
+C:\Users\HP\Desktop\assembly project\C# code\proj1\obj\Debug\proj1.pdb
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\bin\Debug\proj1.exe.config
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\obj\Debug\proj1.exe
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\obj\Debug\proj1.pdb
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\bin\Debug\proj1.exe
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\bin\Debug\proj1.pdb
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\obj\Debug\proj1.csprojResolveAssemblyReference.cache
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\obj\Debug\proj1.Form1.resources
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\obj\Debug\proj1.Properties.Resources.resources
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\obj\Debug\proj1.UC1.resources
+F:\lectcures and labs third year\1st term\assembly\SUDPKO ASSEMBLY PROGECT\C# code\proj1\obj\Debug\proj1.csproj.GenerateResource.Cache

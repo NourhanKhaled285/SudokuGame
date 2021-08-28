@@ -1,0 +1,12 @@
+EXPORTS		
+displayResultBoard @1
+chooseLevel @2
+StorePlayerCell @3
+IsWithinRange @4
+
+IsCorrect @5
+countEmptyCells @6
+
+readSavedArrFromAssem @7
+writeSavedBoardInFile @8
+displayScore @9
