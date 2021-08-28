@@ -1,2 +1,2 @@
-# SudokuGame
+# Sudoku Game
 Sudoku Game
